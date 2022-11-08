@@ -11,3 +11,11 @@ Please refer to the following blog post for instructions: https://aws.amazon.com
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+
+
+```bash
+$ git clone https://github.com/rishun-fsi/aws-codepipeline-codebuild-with-postman.git
+
+$ aws s3 mb s3://aws-cicd-postman-20221108
+
+```
